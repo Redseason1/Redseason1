@@ -1,9 +1,9 @@
 Hello, this is Reaseason, you can also call me David :D!
-I'm a undergraduated school student, and major in information and financial management in Taiwan.
+I'm a student at an undergraduate school, and major in information and financial management in Taiwan.
 I'm interested in some specific kinds of software to solve problems I am facing in the real world.
 So, This is a palace where I upload a few interesting side projects used by python and java.
-I'm still a student and I'm willing to learn everything I am excited about.
-Wish I could hear your comment if there would be some mistake in my codes.
+I'm eager to learn everything I am excited about.
+Wish I could see your comments if there would be mistake in my codes.
 Thanks :)
 
 <!---
